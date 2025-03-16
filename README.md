@@ -28,6 +28,8 @@ Assignment2:
 **Part 01** Implement white-box evasion attacks against deep learning-based classification models using the
 PyTorch library.
 **Part 02** Implement transferable black-box evasion attack against deel learning classification models.
+Used Objects.zip for Part 02 Cannot upload cause of the size placing the link here:
+https://drive.google.com/file/d/19uC4H5FRJCoEnBM9QufbeU_xOcPFssN4/view?usp=sharing
 
 Assignment3:
 **Part 01** Implement black-box boundary attack on deep learning-based classification models.
