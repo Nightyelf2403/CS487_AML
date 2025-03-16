@@ -1,5 +1,3 @@
-Here is how you can format your assignments in a clean and readable manner for your `README.md` file in GitHub:
-
 ```markdown
 # CS 487: Machine Learning and Adversarial Attacks
 
