@@ -46,5 +46,3 @@
 #### Part 02:
 **Get familiar with fine-tuning Large Language Models (LLMs), and implement jailbreaking attacks on LLMs.**
 ```
-
-This will give you a nicely formatted `README.md` that is clear and easy to read on GitHub. The links to the datasets are properly integrated, and each part of the assignment is separated to ensure clarity.
